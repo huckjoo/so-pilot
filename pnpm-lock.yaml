@@ -1,0 +1,17 @@
+lockfileVersion: '6.0'
+
+importers:
+
+  .:
+    devDependencies:
+      pnpm:
+        specifier: ^8.0.0
+        version: 8.0.0
+
+packages:
+
+  /pnpm@8.0.0:
+    resolution: {integrity: sha512-Crsvd8LKb+SoEB/bQxRZrtSt5Ri8g9jmPg6MKyexMTI1pdLd44gPwVV6cZLq2jYYPv5q+gADPkYTbYr8SeFCeA==}
+    engines: {node: '>=16.14'}
+    hasBin: true
+    dev: true
